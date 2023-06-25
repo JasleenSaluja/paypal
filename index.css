@@ -1,0 +1,146 @@
+.cw_navbar__mainnav {
+    background-color: #142c8e;
+    display: flex;
+    height: 6rem;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 901;
+}
+.nav_buttons{
+    justify-content: space-evenly;
+    margin-top: 30px;
+    background-color: #142c8e;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+.logo{
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-right:20px;
+    width: 60px;
+    height: 60px;
+}
+.avatar{
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-right:20px;
+    width: 60px;
+    height: 60px;
+}
+
+#btn{
+    background-color: #142c8e;
+    justify-content: space-between;
+    border: none;
+    color:white;
+    border-radius: 20px;
+    padding: 10px;
+}
+#btn:hover{
+    background-color: #27419B;
+    color: white;
+}
+
+#btn2{
+    background-color: #142c8e;
+    border: none;
+    color:white;
+    border-radius: 20px;
+    padding: 10px; 
+}
+#btn3{
+    background-color: #142c8e;
+    border: none;
+    color:white;
+    border-radius: 20px;
+    padding: 10px;
+      
+}
+#btn4{
+    background-color: #142c8e;
+    border: none;
+    color:white;
+    border-radius: 20px;
+    padding: 10px;
+}
+#btn4:hover{
+    background-color: #27419B;
+    color: white;
+}
+.Hone{
+    padding-left: 570px;
+}
+.Htwo{
+    color:grey;
+    margin-left: 570px;
+}
+.filterbtn{
+    color:#142c8e;
+    margin-left: 570px;
+    background-color: white;
+    border: 1px solid #142c8e;
+    border-radius: 20px;
+    padding:10px;
+    font-weight: bold;
+}
+.filterbtn:hover{
+    background-color: #D1F2FF;
+    color: #142c8e;
+}
+.fb{
+    color:#142c8e;
+    background-color: white;
+    border: 1px solid #142c8e;
+    border-radius: 20px;
+    padding:10px;
+    font-weight: bold;
+}
+.fb:hover{
+    background-color: #D1F2FF;
+    color:#142c8e ;
+}
+.search-input {
+    margin-top: 130px;
+    display: block;
+    width: 500px;
+    margin-left: 570px;
+    line-height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+.box{
+    margin-left: 570px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding-bottom: 20px;;
+    width:700px;
+    margin-top:20px;
+
+}
+.b2{
+    display:flex;
+    width:100px;
+}
+
+#username{
+    display: inline-block;
+    margin-left: 20px;
+}
+#money{
+    padding-left: 400px;
+}
+#date{
+    margin:none;
+    padding-left: 100px;
+    color:grey;
+}
+h2{
+    margin-top:200px;
+    align-items: center;
+}
